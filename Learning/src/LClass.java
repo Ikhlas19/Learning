@@ -11,5 +11,10 @@
 public class LClass {
     int a = 1;
     
+    public void intstatic {
+        
+    System.out.print(a);
+    }
+    
     
 }
