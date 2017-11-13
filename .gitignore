@@ -8,4 +8,6 @@ dist/
 nbdist/
 .nb-gradle/
 
+this is end
+
 # End of https://www.gitignore.io/api/netbeans
